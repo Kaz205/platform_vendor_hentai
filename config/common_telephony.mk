@@ -16,7 +16,7 @@
 
 # CarrierSettings, replace CarrierConfig
 PRODUCT_PACKAGES += \
-    CarrierSettings_signed_47.0.602606545
+    CarrierSettings_signed_49.0.645958608
 
 #
 # Carrier configs by Google, parsed by CarrierSettings
@@ -165,6 +165,7 @@ PRODUCT_PACKAGES += \
     inland_us.pb \
     iwireless_us.pb \
     jazztel_es.pb \
+    jcommobile_jp.pb \
     kddi_jp.pb \
     kddimvno_jp.pb \
     kena_it.pb \
@@ -263,7 +264,6 @@ PRODUCT_PACKAGES += \
     skylo_zz.pb \
     smartone_hk.pb \
     smart_ph.pb \
-    smartfren_id.pb \
     smarty_gb.pb \
     softbank_jp.pb \
     solomobile_ca.pb \
@@ -308,6 +308,7 @@ PRODUCT_PACKAGES += \
     telekom_ro.pb \
     telekom_si.pb \
     telekom_sk.pb \
+    telemach_hr.pb \
     telemach_si.pb \
     telenet_be.pb \
     telenor_dk.pb \
@@ -319,7 +320,6 @@ PRODUCT_PACKAGES += \
     telia_lt.pb \
     telia_no.pb \
     telia_se.pb \
-    telkomsel_id.pb \
     tello_us.pb \
     telstra_au.pb \
     telus_ca.pb \

@@ -18,9 +18,9 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := CarrierSettings_signed_47.0.602606545
+LOCAL_MODULE := CarrierSettings_signed_49.0.645958608
 LOCAL_MODULE_TAGS := optional
-LOCAL_SRC_FILES := CarrierSettings_signed_47.0.602606545.apk
+LOCAL_SRC_FILES := CarrierSettings_signed_49.0.645958608.apk
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_MODULE_CLASS := APPS
 LOCAL_MODULE_OWNER := google

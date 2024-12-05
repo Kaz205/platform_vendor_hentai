@@ -560,8 +560,8 @@ telekom_hr
 
 telekom_hr
 21901T-Mobile HR
-
-21902
+
+telemach_hr
 21902
 
 a1_hr
@@ -4823,6 +4823,9 @@ rakuten_jp
 
 uqmobile_jp
 44051"20
+
+jcommobile_jp
+44051"22
 
 povo_jp
 44051"26
@@ -5176,8 +5179,8 @@ telstra_au
 
 smartfren_id
 51009
-
-telkomsel_id
+
+51010
 51010
 
 axis_id
@@ -6275,4 +6278,4 @@ webbing_hk
 90198
 
 verizononsitelte_us
-999480ı³Âß"»Á´
+999480şÛóûæ"éÜ´

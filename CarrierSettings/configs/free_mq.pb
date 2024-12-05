@@ -1,5 +1,5 @@
 
-free_mq‚°ќВЯ.,
+free_mq‚Шуыж.,
 Free Mqfree.mqZhttp://mms.free.mqp":
 maxMessageSizeЂА%"
-show_4g_for_lte_data_icon_bool(BјозІ
+show_4g_for_lte_data_icon_bool(BПозІ

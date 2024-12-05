@@ -1,5 +1,5 @@
 
-	airbus_de°Âß
+	airbus_deØóûæ
 aircraftaircraftpx
 
 industrialninPpx
@@ -8,4 +8,4 @@ industrialninPpx
 manufmanufpx
 mcsmcspx"D
 cellular_usage_setting_int"
-show_4g_for_lte_data_icon_bool(B´´’²
+show_4g_for_lte_data_icon_bool(BÇ´’²
