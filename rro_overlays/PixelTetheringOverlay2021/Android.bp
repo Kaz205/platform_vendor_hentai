@@ -15,8 +15,7 @@
 //
 
 runtime_resource_overlay {
-    name: "PixelTetheringOverlay",
-    theme: "PixelTetheringOverlay",
+    name: "PixelTetheringOverlay2021",
     certificate: "platform",
     sdk_version: "current",
     product_specific: true

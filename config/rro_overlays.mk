@@ -42,4 +42,4 @@ PRODUCT_PACKAGES += \
     PixelConfigOverlay2021 \
     PixelConfigOverlayCommon \
     PixelConnectivityOverlay2024 \
-    PixelTetheringOverlay
+    PixelTetheringOverlay2021
