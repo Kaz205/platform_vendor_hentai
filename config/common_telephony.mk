@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     1and1_de.pb \
     2degrees_nz.pb \
     321communications_us.pb \
+    48_ie.pb \
     4ka_sk.pb \
     a1_at.pb \
     a1_bg.pb \
@@ -45,8 +46,8 @@ PRODUCT_PACKAGES += \
     airbus_fr.pb \
     airtel_in.pb \
     ais_th.pb \
-    altice_us.pb \
     alticeroaming_us.pb \
+    altice_us.pb \
     andorratelecom_ad.pb \
     antel_uy.pb \
     appalachian_us.pb \
@@ -59,9 +60,9 @@ PRODUCT_PACKAGES += \
     att5g_us.pb \
     attbootstrap_us.pb \
     attmvnos_us.pb \
-    axis_id.pb \
     att_mx.pb \
     att_us.pb \
+    axis_id.pb \
     base_be.pb \
     batelco_bh.pb \
     bell_ca.pb \
@@ -114,6 +115,7 @@ PRODUCT_PACKAGES += \
     du_ae.pb \
     eastlink_ca.pb \
     ee_gb.pb \
+    eeyoumobility_ca.pb \
     eir_ie.pb \
     elisa1_fi.pb \
     elisa2_fi.pb \
@@ -166,7 +168,9 @@ PRODUCT_PACKAGES += \
     iwireless_us.pb \
     jazztel_es.pb \
     jcommobile_jp.pb \
+    kddi5gsa_jp.pb \
     kddi_jp.pb \
+    kddimvno5gsa_jp.pb \
     kddimvno_jp.pb \
     kena_it.pb \
     koodo_ca.pb \
@@ -174,6 +178,7 @@ PRODUCT_PACKAGES += \
     lebara_es.pb \
     lebara_fr.pb \
     lebara_gb.pb \
+    lebara_nl.pb \
     liberty_pr.pb \
     lifecell_ua.pb \
     linemo_jp.pb \
@@ -183,12 +188,15 @@ PRODUCT_PACKAGES += \
     luckymobile_ca.pb \
     lum_ca.pb \
     lyca_es.pb \
+    lycamobile_pt.pb \
+    lycamobile_se.pb \
     lyca_us.pb \
     m1_sg.pb \
     manxcontract_im.pb \
     manxprepaid_im.pb \
     masmovil_es.pb \
     maxis_my.pb \
+    mediacom_us.pb \
     melita_mt.pb \
     meo_pt.pb \
     metropcs_us.pb \
@@ -197,8 +205,12 @@ PRODUCT_PACKAGES += \
     monacotelecom_mc.pb \
     movistar_es.pb \
     movistar_mx.pb \
+    mucho_ch.pb \
     mvnoconnect_us.pb \
+    netcomgroup_fr.pb \
+    nexphone_ch.pb \
     nextech_us.pb \
+    no_sim.pb \
     nos_pt.pb \
     nova_gr.pb \
     nova_is.pb \
@@ -213,6 +225,7 @@ PRODUCT_PACKAGES += \
     one_me.pb \
     ooredoo_kw.pb \
     ooredoo_qa.pb \
+    optimera_us.pb \
     optus_au.pb \
     orange_be.pb \
     orange_es.pb \
@@ -231,7 +244,9 @@ PRODUCT_PACKAGES += \
     play_pl.pb \
     plintron_us.pb \
     plus_pl.pb \
+    postemobile_it.pb \
     post_lu.pb \
+    povo5gsa_jp.pb \
     povo_jp.pb \
     proximus_be.pb \
     publicmobile_ca.pb \
@@ -262,24 +277,29 @@ PRODUCT_PACKAGES += \
     skt_kr.pb \
     sky_gb.pb \
     skylo_zz.pb \
+    smartfren_id.pb \
     smartone_hk.pb \
     smart_ph.pb \
     smarty_gb.pb \
     softbank_jp.pb \
     solomobile_ca.pb \
     spark_nz.pb \
+    spectrummsotest_us.pb \
+    spectrummso_us.pb \
     spectrum_us.pb \
     spmtelecom_pm.pb \
     sprintprepaid_us.pb \
     sprint_us.pb \
     sprintwholesale_us.pb \
     spusu_at.pb \
+    ssimobile_ca.pb \
     starhub_sg.pb \
     stc_bh.pb \
     stc_kw.pb \
     stc_sa.pb \
     strata_us.pb \
     sunrise_ch.pb \
+    superdrug_gb.pb \
     sweno_es.pb \
     swisscom_ch.pb \
     swisscom_li.pb \
@@ -320,11 +340,14 @@ PRODUCT_PACKAGES += \
     telia_lt.pb \
     telia_no.pb \
     telia_se.pb \
+    telkomsel_id.pb \
     tello_us.pb \
     telstra_au.pb \
     telus_ca.pb \
     tesco_gb.pb \
+    test001_zz.pb \
     three_dk.pb \
+    tim_br.pb \
     tim_it.pb \
     tmobile_at.pb \
     tmobile_cz.pb \
@@ -351,6 +374,7 @@ PRODUCT_PACKAGES += \
     umobile_my.pb \
     unifi_my.pb \
     unionwireless_us.pb \
+    unitedwireless_us.pb \
     uqmobile5gsa_jp.pb \
     uqmobile_jp.pb \
     uscc_us.pb \
@@ -368,6 +392,8 @@ PRODUCT_PACKAGES += \
     visible_us.pb \
     visiblev_us.pb \
     viti_pf.pb \
+    vivacom_bg.pb \
+    vivo_br.pb \
     vodafone_au.pb \
     vodafone_cz.pb \
     vodafone_de.pb \
@@ -385,9 +411,11 @@ PRODUCT_PACKAGES += \
     vodafone_qa.pb \
     vodafone_ro.pb \
     vodafone_tr.pb \
+    walmart_mx.pb \
     webbing_hk.pb \
     windtre_it.pb \
     xfinity2_us.pb \
+    xfinitymso_us.pb \
     xfinity_us.pb \
     yes_my.pb \
     yesss_at.pb \
@@ -397,7 +425,8 @@ PRODUCT_PACKAGES += \
     zain_bh.pb \
     zain_kw.pb \
     zain_sa.pb \
-    zeop_re.pb
+    zeop_re.pb \
+    ztar_us.pb
 
 # Other countries
 PRODUCT_PACKAGES += \
