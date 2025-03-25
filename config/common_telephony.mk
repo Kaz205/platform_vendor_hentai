@@ -16,7 +16,7 @@
 
 # CarrierSettings, replace CarrierConfig
 PRODUCT_PACKAGES += \
-    CarrierSettings_signed_49.0.645958608
+    CarrierSettings_signed_51.0.707712815
 
 #
 # Carrier configs by Google, parsed by CarrierSettings
@@ -46,6 +46,7 @@ PRODUCT_PACKAGES += \
     airbus_fr.pb \
     airtel_in.pb \
     ais_th.pb \
+    alcom_fi.pb \
     alticeroaming_us.pb \
     altice_us.pb \
     andorratelecom_ad.pb \
@@ -88,7 +89,10 @@ PRODUCT_PACKAGES += \
     cht_tw.pb \
     cityfone_ca.pb \
     claro_br.pb \
+    claro_cl.pb \
+    claro_co.pb \
     claro_pr.pb \
+    commonmvnxatt_us.pb \
     congstar_de.pb \
     consumercellularatt_us.pb \
     consumercellulartmo_us.pb \
@@ -103,6 +107,7 @@ PRODUCT_PACKAGES += \
     digi_hu.pb \
     digimobil_es.pb \
     digi_my.pb \
+    digi_pt.pb \
     digi_ro.pb \
     dish5gsa_us.pb \
     dishatt_us.pb \
@@ -120,7 +125,10 @@ PRODUCT_PACKAGES += \
     elisa1_fi.pb \
     elisa2_fi.pb \
     elisa_ee.pb \
+    enetworks_gy.pb \
     enreach_nl.pb \
+    entel_cl.pb \
+    epic_mt.pb \
     eplus_de.pb \
     erate_no.pb \
     esn_gb.pb \
@@ -138,6 +146,7 @@ PRODUCT_PACKAGES += \
     fi_tmo_us.pb \
     fizz_ca.pb \
     fl1_li.pb \
+    foroyatele_fo.pb \
     freedommobile_ca.pb \
     free_fr.pb \
     free_gp.pb \
@@ -149,6 +158,8 @@ PRODUCT_PACKAGES += \
     giffgaff_gb.pb \
     giga_sg.pb \
     globe_ph.pb \
+    gomobile_mt.pb \
+    grameenphone_bd.pb \
     guuk_es.pb \
     h3_at.pb \
     h3g27202_ie.pb \
@@ -164,8 +175,10 @@ PRODUCT_PACKAGES += \
     idea_in.pb \
     idmobile_gb.pb \
     iliad_it.pb \
+    indosat_id.pb \
     inland_us.pb \
     iwireless_us.pb \
+    jazz_pk.pb \
     jazztel_es.pb \
     jcommobile_jp.pb \
     kddi5gsa_jp.pb \
@@ -188,10 +201,12 @@ PRODUCT_PACKAGES += \
     luckymobile_ca.pb \
     lum_ca.pb \
     lyca_es.pb \
+    lycamobile_gb.pb \
     lycamobile_pt.pb \
     lycamobile_se.pb \
     lyca_us.pb \
     m1_sg.pb \
+    magticom_ge.pb \
     manxcontract_im.pb \
     manxprepaid_im.pb \
     masmovil_es.pb \
@@ -203,10 +218,12 @@ PRODUCT_PACKAGES += \
     mobifone_vn.pb \
     mobily_sa.pb \
     monacotelecom_mc.pb \
+    movistar_co.pb \
     movistar_es.pb \
     movistar_mx.pb \
     mucho_ch.pb \
     mvnoconnect_us.pb \
+    nema_fo.pb \
     netcomgroup_fr.pb \
     nexphone_ch.pb \
     nextech_us.pb \
@@ -223,6 +240,7 @@ PRODUCT_PACKAGES += \
     omantel_om.pb \
     onecall_no.pb \
     one_me.pb \
+    only_yt.pb \
     ooredoo_kw.pb \
     ooredoo_qa.pb \
     optimera_us.pb \
@@ -254,12 +272,12 @@ PRODUCT_PACKAGES += \
     qlink_us.pb \
     racc_es.pb \
     rakuten_jp.pb \
-    reachmobileatt_us.pb \
     redpocketatt_us.pb \
     redpockettmo_us.pb \
     republicwireless_us.pb \
     r_es.pb \
     rjio_in.pb \
+    robi_bd.pb \
     rogers5g_ca.pb \
     rogers_ca.pb \
     rogerswpn_ca.pb \
@@ -276,6 +294,7 @@ PRODUCT_PACKAGES += \
     skinny_nz.pb \
     skt_kr.pb \
     sky_gb.pb \
+    sky_ie.pb \
     skylo_zz.pb \
     smartfren_id.pb \
     smartone_hk.pb \
@@ -292,6 +311,9 @@ PRODUCT_PACKAGES += \
     sprint_us.pb \
     sprintwholesale_us.pb \
     spusu_at.pb \
+    spusu_ch.pb \
+    spusu_gb.pb \
+    spusu_it.pb \
     ssimobile_ca.pb \
     starhub_sg.pb \
     stc_bh.pb \
@@ -303,6 +325,7 @@ PRODUCT_PACKAGES += \
     sweno_es.pb \
     swisscom_ch.pb \
     swisscom_li.pb \
+    swisscommvno_ch.pb \
     talkmobile_gb.pb \
     tango_lu.pb \
     tango_us.pb \
@@ -310,6 +333,7 @@ PRODUCT_PACKAGES += \
     tchibo_at.pb \
     tchibo_de.pb \
     tdc_dk.pb \
+    telavox_be.pb \
     telavox_se.pb \
     telcel_mx.pb \
     telco_re.pb \
@@ -333,6 +357,7 @@ PRODUCT_PACKAGES += \
     telenet_be.pb \
     telenor_dk.pb \
     telenor_no.pb \
+    telenor_pk.pb \
     telenor_se.pb \
     telia_dk.pb \
     telia_ee.pb \
@@ -347,11 +372,13 @@ PRODUCT_PACKAGES += \
     tesco_gb.pb \
     test001_zz.pb \
     three_dk.pb \
+    tigo_co.pb \
     tim_br.pb \
     tim_it.pb \
     tmobile_at.pb \
     tmobile_cz.pb \
     tmobile_nl.pb \
+    tmobileprivate_us.pb \
     tmobile_us.pb \
     tmomvno_nl.pb \
     tmomvno_us.pb \
@@ -403,6 +430,7 @@ PRODUCT_PACKAGES += \
     vodafone_hu.pb \
     vodafone_ie.pb \
     vodafone_in.pb \
+    vodafone_is.pb \
     vodafone_it.pb \
     vodafone_nl.pb \
     vodafone_nz.pb \
