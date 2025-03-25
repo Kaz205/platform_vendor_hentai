@@ -62,6 +62,9 @@
          rate. -->
     <bool name="config_refreshRateSynchronizationEnabled">true</bool>
 
+    <!-- Indicating if keyboard vibration settings supported or not. -->
+    <bool name="config_keyboardVibrationSettingsSupported">true</bool>
+
      <!-- Package name for the device provisioning package. -->
      <string name="config_deviceProvisioningPackage" translatable="false">
           com.google.android.apps.work.oobconfig</string>
