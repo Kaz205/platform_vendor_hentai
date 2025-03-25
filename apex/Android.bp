@@ -336,7 +336,8 @@ module_apex_prebuilt {
     name: "com.google.android.nfcservices",
     source_apex_name: "com.google.android.nfcservices",
     owner: "google",
-    src: "com.google.android.nfcservices.apex",
+    src: "com.google.android.nfcservices.capex",
+    filename: "com.google.android.nfcservices.capex",
     overrides: ["com.android.nfcservices"],
     prefer: true,
     required: [
