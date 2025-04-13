@@ -16,4 +16,8 @@
 
 aconfig_value_set {
     name: "aconfig_value_set-platform_vendor_helluva_release-bp1a",
+    values: [
+        "aconfig-values-platform_build_release-bp1a-android.hardware.biometrics-helluva",
+        "aconfig-values-platform_build_release-bp1a-vendor.vibrator.hal.flags-helluva",
+    ],
 }

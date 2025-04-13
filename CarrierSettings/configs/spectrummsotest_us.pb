@@ -15,4 +15,4 @@
 /opportunistic_network_entry_threshold_rssnr_int
 :
 -opportunistic_network_exit_threshold_rsrp_intˆÿÿÿÿÿÿÿÿ2
-.opportunistic_network_exit_threshold_rssnr_int	Bøâþ¶
+.opportunistic_network_exit_threshold_rssnr_int	B…ãþ¶
